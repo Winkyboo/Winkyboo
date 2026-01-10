@@ -14,27 +14,24 @@
 
 <br/>
 
-<!-- Attractive Side-by-Side Section -->
+<!-- Main Content Table -->
 <table>
   <tr>
     <td width="60%" valign="top">
       <h3 align="left">🧐 About Me</h3>
       <br />
-      - 🔭 I’m currently working on <strong>Interesting Projects</strong><br /><br />
-      - 🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br /><br />
-      - 👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br /><br />
-      - ⚡ <strong>Fun Fact:</strong> I think I like anime girls too much (don't worry, i'm still into real girls)
+       🔭 I’m currently working on <strong>Interesting Projects</strong><br /><br />
+       🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br /><br />
+       👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br /><br />
+       ⚡ <strong>Fun Fact:</strong> I think I like anime girls too much (don't worry, i'm still into real girls)
     </td>
     <td width="40%" valign="top" align="center">
       <h3>🛠️ Tech Stack</h3>
+      <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python,java&perline=3" />
       <br />
-      <!-- Icons arranged nicely -->
-      <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python&perline=5" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=java,git,github,vscode,figma&perline=5" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
       <br /><br />
-      <!-- CUTE ANIME DECORATION (Coding Girl) -->
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="Anime Girl Coding" />
+      <img src="https://media.giphy.com/media/13HgwJEttSqKC/giphy.gif" width="250" alt="Anime Girl Coding" />
     </td>
   </tr>
 </table>
