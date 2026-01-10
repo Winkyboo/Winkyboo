@@ -1,9 +1,7 @@
 <div align="center">
 
   <!-- Header & Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Willy;I+am+an+ITS+Student;I+am+into+Cyber+Security" alt="Typing SVG" />
-
-  <h1 align="center">🌟 Hi there, I'm Willy ☕</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Willy;I+am+a+student+from+ITS+;I+am+into+Cyber+Security" alt="Typing SVG" />
 
   <!-- Social Links -->
   <p align="center">
@@ -15,7 +13,7 @@
 <br/>
 
 <!-- ABOUT ME (Full Width, No Table) -->
-# 🧐 About Me
+## 🧐 About Me
 
 <h3>
 🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
