@@ -3,7 +3,7 @@
   <!-- Header & Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Willy;I+am+an+ITS+Student;I+am+into+Cyber+Security" alt="Typing SVG" />
 
-  <h3 align="center">🌟 Hi there, I'm Willy ☕</h3>
+  <h1 align="center">🌟 Hi there, I'm Willy ☕</h1>
 
   <!-- Social Links -->
   <p align="center">
@@ -17,12 +17,12 @@
 <!-- ABOUT ME (Full Width, No Table) -->
 ### 🧐 About Me
 
-<h4>
+<h2>
 🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
 🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br/>
 👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br/>
 ⚡ <strong>Fun Fact:</strong> I think I like anime girls too much (don't worry, i'm still into real girls)
-</h4>
+</h2>
 
 <br/>
 
