@@ -1,56 +1,57 @@
-# Hi there, I'm Willy Marcelius 👋
-
-## 🚀 About Me
-
-A student that got interested in cyber security field
-
-- 🌍 Based in **Surabaya, Indonesia**
-- 💼 Working at **Institut Teknologi Sepuluh Nopember**
-
-- 🌱 Currently learning **Ethical Hacking**
-- 📫 Reach me at **willymarcelius13@gmail.com**
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Winkyboo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winkyboo&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <!-- Header & Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Willy;I+am+an+ITS+Student;I+am+into+Cyber+Security" alt="Typing SVG" />
+
+  <h3 align="center">🌟 Hi there, I'm Willy ☕</h3>
+
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/willy-marcelius-31b641317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://instagram.com/wlymrcls_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  </p>
 </div>
 
+<br/>
+
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Winkyboo&theme=tokyonight" alt="GitHub Streak"/>
+  🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
+  🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br/>
+  👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br/>
 </div>
 
-## 📫 Let's Connect
+<br/>
 
+<!-- Tech Stack / Skills -->
 <div align="center">
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/willy-marcelius-31b641317//)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willymarcelius13@gmail.com)
-
+  <h3>🛠️ Tech Stack</h3>
+  <!-- Fixed: Changed 'c#' to 'cs' and 'c++' to 'cpp' so the icons load -->
+  <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python,java,git,github,vscode,figma&perline=6" />
 </div>
 
----
+<br/>
+
+<!-- Github Stats -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br/>
+  <!-- Fixed: Added 'Winkyboo' to the username field -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Winkyboo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winkyboo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<!-- THE WONDERFUL CONTRIBUTOR IMAGE (SNAKE ANIMATION) -->
+<div align="center">
+  <h3>🐍 My Contributions</h3>
+  <!-- Fixed: Used the 'raw' link so the image actually displays -->
+  <img src="https://raw.githubusercontent.com/Winkyboo/Winkyboo/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Winkyboo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  **💡 "Building the future, one commit at a time"**
-  
-  ⭐ From [Winkyboo](https://github.com/Winkyboo)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
