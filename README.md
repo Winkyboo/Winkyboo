@@ -14,21 +14,27 @@
 
 <br/>
 
-<!-- About Me Section -->
-<div align="center">
-  🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
-  🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br/>
-  👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br/>
-</div>
-
-<br/>
-
-<!-- Tech Stack / Skills -->
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <!-- Fixed: Changed 'c#' to 'cs' and 'c++' to 'cpp' so the icons load -->
-  <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python,java,git,github,vscode,figma&perline=6" />
-</div>
+<!-- Side-by-Side Layout -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧐 About Me</h3>
+      <br>
+      🔭 I’m currently working on <strong>Interesting Projects</strong><br><br>
+      🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br><br>
+      👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <div align="center">
+        <!-- Icons split into 2 rows of 5 to fit the half-width nicely -->
+        <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python&perline=5" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=java,git,github,vscode,figma&perline=5" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
