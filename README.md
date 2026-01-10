@@ -37,8 +37,8 @@
   <h3>📊 GitHub Stats</h3>
   <br/>
   <!-- Used a more reliable mirror server (github-readme-stats-lo.vercel.app) -->
-  <img src="https://github-readme-stats-lo.vercel.app/api?username=Winkyboo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats-lo.vercel.app/api/top-langs/?username=Winkyboo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Winkyboo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Winkyboo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
 <br/>
