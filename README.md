@@ -14,27 +14,29 @@
 
 <br/>
 
-<!-- Main Content Table -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3 align="left">🧐 About Me</h3>
-      <br />
-       🔭 I’m currently working on <strong>Interesting Projects</strong><br /><br />
-       🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br /><br />
-       👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br /><br />
-       ⚡ <strong>Fun Fact:</strong> I think I like anime girls too much (don't worry, i'm still into real girls)
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python,java&perline=3" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
-      <br /><br />
-      <img src="https://media.giphy.com/media/13HgwJEttSqKC/giphy.gif" width="250" alt="Anime Girl Coding" />
-    </td>
-  </tr>
-</table>
+<!-- ABOUT ME (Full Width, No Table) -->
+### 🧐 About Me
+
+- 🔭 I’m currently working on **Interesting Projects**
+- 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
+- 👯 I’m a student from **Institut Teknologi Sepuluh Nopember (ITS) Surabaya**
+- ⚡ **Fun Fact:** I think I like anime girls too much (don't worry, i'm still into real girls)
+
+<br/>
+
+<!-- COOL CYBER SECURITY ANIME GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm14bWszc295Ym14bWszc295Ym14bWszc295Ym14bWszc295/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="max-width: 600px;" alt="Cyber Security Anime Gif" />
+</div>
+
+<br/>
+
+<!-- TECH STACK (Stretched Line) -->
+### 🛠️ Tech Stack
+<div align="left">
+  <!-- 'perline=12' forces the icons to stretch across the screen in one line -->
+  <img src="https://skillicons.dev/icons?i=html,cs,c,cpp,python,java,git,github,vscode,figma&perline=12" />
+</div>
 
 
 <br/>
