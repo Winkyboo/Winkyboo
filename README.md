@@ -3,6 +3,7 @@
   <!-- Header & Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Willy;I+am+a+student+from+ITS+;I+am+into+Cyber+Security" alt="Typing SVG" />
 
+<br/>
   <!-- Social Links -->
   <p align="center">
     <a href="https://linkedin.com/in/willy-marcelius-31b641317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
@@ -13,7 +14,7 @@
 <br/>
 
 <!-- ABOUT ME (Full Width, No Table) -->
-## 🧐 About Me
+## 🧐 Hi, my name is Willy!
 
 <h3>
 🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
