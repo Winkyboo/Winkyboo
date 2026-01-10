@@ -2,7 +2,6 @@
 ## 🧐 Hi, my name is Willy!
 
 <h3>
-🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
 🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br/>
 👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br/>
 ⚡ <strong>Fun Fact:</strong> I think I like anime girls too much (don't worry, i'm still into real girls)
