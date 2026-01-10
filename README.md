@@ -28,7 +28,7 @@
 
 <!-- COOL CYBER SECURITY ANIME GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm14bWszc295Ym14bWszc295Ym14bWszc295Ym14bWszc295/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="max-width: 600px;" alt="Cyber Security Anime Gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx5c2J0dHRqcXV0Y3hhOWs3MmVubDBoczVmemkzYW9kcGt5Z3N1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ktIU3fX93FtqULXjb1/giphy.gif" width="100%" style="max-width: 600px;" alt="Mai Anime Gif" />
 </div>
 
 <br/>
