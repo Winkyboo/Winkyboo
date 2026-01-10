@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GirlBunnyGIF-ezgif.com-crop.gif" width="100%" alt="Mai Anime Gif" />
+  <img src="videoframe_6026 (1).png" width="100%" alt="Mai kisah" />
 </div>
 
 <br/>
