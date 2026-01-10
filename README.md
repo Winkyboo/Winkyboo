@@ -15,13 +15,13 @@
 <br/>
 
 <!-- ABOUT ME (Full Width, No Table) -->
-## 🧐 About Me
+### 🧐 About Me
 
 <h4>
-- 🔭 I’m currently working on **Interesting Projects**
-- 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
-- 👯 I’m a student from **Institut Teknologi Sepuluh Nopember (ITS) Surabaya**
-- ⚡ **Fun Fact:** I think I like anime girls too much (don't worry, i'm still into real girls)
+🔭 I’m currently working on <strong>Interesting Projects</strong><br/>
+🌱 I’m currently learning <strong>Cyber Security and Ethical Hacking</strong><br/>
+👯 I’m a student from <strong>Institut Teknologi Sepuluh Nopember (ITS) Surabaya</strong><br/>
+⚡ <strong>Fun Fact:</strong> I think I like anime girls too much (don't worry, i'm still into real girls)
 </h4>
 
 <br/>
